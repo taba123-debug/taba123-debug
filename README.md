@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and Data . How to merge it with MERN!
 - 🌱 I’m currently learning Python , javascript 
 - 💞️ I’m looking to collaborate on Hackathons
-- 📫 How to reach me tabbanghani123@gmail.com
+- 📫 How to reach me tabbanghani0@gmail.com
 - 😄 Pronouns: #she #her
 - ⚡ Fun fact: Only my PC helps me to do , what is in my mind! 
 
